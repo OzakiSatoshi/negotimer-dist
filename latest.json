@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.1.1/negotimer-setup-1.1.1.exe",
-  "sha256": "8C28749EECE6E4759F8D3C6ADBB750F0E2CDBBB476CA002297AE690A0CB382AB",
-  "notes": "上書きインストールが失敗することがある問題を直しました。"
+  "version": "1.1.2",
+  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.1.2/negotimer-setup-1.1.2.exe",
+  "sha256": "133EDF12B389A41C0F61FE2C605BFAFE0A08B0C267E671ABBBE95C5E87569EC5",
+  "notes": "新しい版が出たときに知らせるようになりました。"
 }
