@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.0/negotimer-setup-1.2.0.exe",
-  "sha256": "1632534D933CF30E65AE5E44AAA666D3C9D8DE7C85D6A4C26109C3CE5142205A",
-  "notes": "開始前から終了まで会議のタイルに映るようになりました。更新はインストーラの実行し直しが要ります。"
+  "version": "1.2.1",
+  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.1/negotimer-setup-1.2.1.exe",
+  "sha256": "337D712EE2C42A2D1914A904623FFAFA2B64CA034EE3185C1A6D3310E4F00C1F",
+  "notes": "会議でのタイマーの名前を決められるようにし、英語表示の抜けを直しました。 / Name the timer in meetings; English now shown on every screen."
 }
