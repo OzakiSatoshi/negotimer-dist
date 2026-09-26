@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.2/negotimer-setup-1.2.2.exe",
-  "sha256": "0A2255DE51549E1B0AC99954D15CD99A0B4E26E331F62952977AAF3932BA4432",
-  "notes": "会議でのタイマーの名前を決められるようにし、英語表示の抜けを直しました。 / Name the timer in meetings; English now shown on every screen, including the download page this button opens."
+  "version": "1.2.3",
+  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.3/negotimer-setup-1.2.3.exe",
+  "sha256": "B766E06A0D24C74A3296CB362BE555E2480D08E2F0188B409CAF77B87E336A3E",
+  "notes": "会議に映るタイマーの「待機中」「時間です」が、アプリの表示言語で出るようになりました。 / The timer in your meeting now shows “Waiting to start” and “Time’s up” in the app’s language."
 }
