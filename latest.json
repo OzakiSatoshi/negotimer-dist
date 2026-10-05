@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.3/negotimer-setup-1.2.3.exe",
-  "sha256": "B766E06A0D24C74A3296CB362BE555E2480D08E2F0188B409CAF77B87E336A3E",
-  "notes": "会議に映るタイマーの「待機中」「時間です」が、アプリの表示言語で出るようになりました。 / The timer in your meeting now shows “Waiting to start” and “Time’s up” in the app’s language."
+  "version": "1.2.4",
+  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.4/negotimer-setup-1.2.4.exe",
+  "sha256": "8E9B9DFD81C81454EF2C343E26D71CE891A0FCD0E04F21F8EBE45EE2213DC4E8",
+  "notes": "「会議に参加」の画面を、会議の種類に合わせた入力欄に作り直しました。招待文をまるごと貼っても読み取ります。 / The “Join a meeting” screen now shows fields that match your meeting app, and reads the link even if you paste the whole invitation."
 }
