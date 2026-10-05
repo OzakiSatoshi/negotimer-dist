@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
-  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.4/negotimer-setup-1.2.4.exe",
-  "sha256": "8E9B9DFD81C81454EF2C343E26D71CE891A0FCD0E04F21F8EBE45EE2213DC4E8",
-  "notes": "「会議に参加」の画面を、会議の種類に合わせた入力欄に作り直しました。招待文をまるごと貼っても読み取ります。 / The “Join a meeting” screen now shows fields that match your meeting app, and reads the link even if you paste the whole invitation."
+  "version": "1.2.5",
+  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.5/negotimer-setup-1.2.5.exe",
+  "sha256": "EC89E1F6C75B0FA0EF436192435ABCDADCD1C73762E2B5C622919F2F49B9E2F6",
+  "notes": "削除した録音が一覧に残って見えることがあったのを直しました。 / Fixed deleted recordings sometimes staying in the Recordings list."
 }
