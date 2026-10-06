@@ -1,6 +1,6 @@
 {
-  "version": "1.2.7",
-  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.7/negotimer-setup-1.2.7.exe",
-  "sha256": "F5B3F77CF5DF513894F5A3A8EDBE50AFDC8F64024039CCD2A1875BE92CAEB7B7",
-  "notes": "会議に入れた直後のタイマーの画面に、案内を表示するようにしました。 / The timer tile now shows guidance right after it joins a meeting."
+  "version": "1.2.8",
+  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.8/negotimer-setup-1.2.8.exe",
+  "sha256": "6B8AA44E1B9E4AA1130A1F1A21E768CE30C59AA1BD8898B6E8F90A5F84CBCC5E",
+  "notes": "会議に映す「本日の進行」の画面を見やすく作り直しました。 / The “Today’s format” screen shown in the meeting has been redesigned."
 }
