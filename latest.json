@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.6/negotimer-setup-1.2.6.exe",
-  "sha256": "0DAEF17247D6F6397F53DFA11A590023A76042DCF55940BD31EBEE105D6530C9",
-  "notes": "Teams の会議でタイマーがあなたのアカウントで参加してしまうことがあったのを直しました。 / Fixed the timer sometimes joining Teams meetings as you."
+  "version": "1.2.7",
+  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.7/negotimer-setup-1.2.7.exe",
+  "sha256": "F5B3F77CF5DF513894F5A3A8EDBE50AFDC8F64024039CCD2A1875BE92CAEB7B7",
+  "notes": "会議に入れた直後のタイマーの画面に、案内を表示するようにしました。 / The timer tile now shows guidance right after it joins a meeting."
 }
