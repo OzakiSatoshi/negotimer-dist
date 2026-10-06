@@ -1,6 +1,6 @@
 {
-  "version": "1.2.5",
-  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.5/negotimer-setup-1.2.5.exe",
-  "sha256": "EC89E1F6C75B0FA0EF436192435ABCDADCD1C73762E2B5C622919F2F49B9E2F6",
-  "notes": "削除した録音が一覧に残って見えることがあったのを直しました。 / Fixed deleted recordings sometimes staying in the Recordings list."
+  "version": "1.2.6",
+  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.6/negotimer-setup-1.2.6.exe",
+  "sha256": "0DAEF17247D6F6397F53DFA11A590023A76042DCF55940BD31EBEE105D6530C9",
+  "notes": "Teams の会議でタイマーがあなたのアカウントで参加してしまうことがあったのを直しました。 / Fixed the timer sometimes joining Teams meetings as you."
 }
