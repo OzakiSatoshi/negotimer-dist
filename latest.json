@@ -1,6 +1,6 @@
 {
-  "version": "1.2.8",
-  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.2.8/negotimer-setup-1.2.8.exe",
-  "sha256": "6B8AA44E1B9E4AA1130A1F1A21E768CE30C59AA1BD8898B6E8F90A5F84CBCC5E",
-  "notes": "会議に映す「本日の進行」の画面を見やすく作り直しました。 / The “Today’s format” screen shown in the meeting has been redesigned."
+  "version": "1.5.5",
+  "url": "https://github.com/OzakiSatoshi/negotimer-dist/releases/download/v1.5.5/negotimer-setup-1.5.5.exe",
+  "sha256": "C351DC19A53B3AF9DB1E3F1A0735A318C8589268F20A08519806D8E69FA6C8DA",
+  "notes": "バージョン番号を Android 版・iPhone 版とそろえて 1.5.5 にしました（機能の変更はありません）。 / The version number now matches the Android and iPhone apps (1.5.5). No feature changes."
 }
